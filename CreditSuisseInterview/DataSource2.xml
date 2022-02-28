@@ -1,0 +1,21 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<records>
+	<record>
+		<tradeId>4</tradeId>
+		<tradeType>Credit</tradeType>
+		<tradeDate>23.01.2022 11:00:00</tradeDate>
+		<tradeValue>34.50</tradeValue>
+	</record>
+	<record>
+		<tradeId>5</tradeId>
+		<tradeType>Credit</tradeType>
+		<tradeDate>21.01.2022 11:00:00</tradeDate>
+		<tradeValue>64.50</tradeValue>
+	</record>
+	<record>
+		<tradeId>6</tradeId>
+		<tradeType>Equity</tradeType>
+		<tradeDate>27.01.2022 14:00:00</tradeDate>
+		<tradeValue>34.00</tradeValue>
+	</record>
+</records>
